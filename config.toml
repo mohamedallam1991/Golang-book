@@ -1,4 +1,4 @@
-baseurl = "/"
+baseURL = "https://mohamedallam1991.github.io/golang-book"
 title = "Golang-Book"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
