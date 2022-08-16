@@ -30,6 +30,9 @@ widgets:
   - "search"
   - "recent"
   - "taglist"
+menu:
+  main:
+    name: Databases
 ---
 
 The following steps will help you get started as quickly as possible, manipulating SQL data.

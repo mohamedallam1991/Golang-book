@@ -16,7 +16,7 @@ authorbox: false
 sidebar: false
 pager: false
 toc: true
-weight: 2
+weight: 1
 
 authorbox: true # Enable authorbox for specific page
 pager: false # Enable pager navigation (prev/next) for specific page
@@ -27,6 +27,9 @@ widgets:
   - "search"
   - "recent"
   - "taglist"
+menu:
+  main:
+    name: Golang
 ---
 
 
