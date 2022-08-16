@@ -19,6 +19,18 @@ This is a free open source website, where we focus on Golang ecosystem, with eve
 - [This is a free chapter of the Coding Career Handbook](https://www.learninpublic.org/v1-principles-learn-in-public.pdf)
 - [Learn In Public](https://www.swyx.io/learn-in-public/)
 
+Some of my inspirations include:
+- [Golang Book](https://softchris.github.io/golang-book/)
+
+Some of my other bloogs:
+- [Golang Book](https://mohamedallam1991.github.io/golang-book/)
+- [Postgres Book](https://mohamedallam1991.github.io/postgres/)
+- [PostgreSQL Book](https://mohamedallam1991.github.io/postgresql/)
+- [My portfolio](https://mohamedallam1991.github.io/)
+- [My blog](https://mohamedallam.tech)
+- [A business page](https://mohamedallam1991.github.io/tella/)
+<!-- - [A business page](https://mohamedallam1991.github.io/postgresql/) -->
+
 
 You already know that you will never be done learning. But most people “learn in private”, and lurk. They consume content without creating any themselves. Again, that’s fine, but we’re here to talk about being in the top quintile. What you do here is to have **a habit of creating learning exhaust:**
 
