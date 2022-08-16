@@ -23,8 +23,9 @@ toc: true
 weight: 1
 ---
 
-
 The following steps will help you get started as quickly as possible, manipulating SQL data.
+
+<!--more-->
 
 ## Intro
 
@@ -80,7 +81,8 @@ SELECT * FROM customers
 
 If you might have noticed, the customer_id is auto incremented and is set Postgres, it will keep auto-incrementing.
 
-## Insert a record
+## Inserting
+### Insert a record
 
 Let’s insert a row of data.
 
@@ -143,7 +145,7 @@ VALUES
 ('John','Doe') returning customer_id;
 ```
 
-## Update a record
+## UPDATING
 
 ### Update a row
 
@@ -185,7 +187,7 @@ WHERE "customer_id" = 3
 returning customer_id;
 ```
 
-## Update Multiple columns
+### Update Multiple columns
 
 ```sql
 -- UPDATE tablename
@@ -220,7 +222,7 @@ SET email = 'yes@aol.com', age = 40
 WHERE first_name = 'Mohamed' returning customer_id;
 ```
 
-## Update all records in a database
+### Update all records in a database
 
 If you update with no where clause, you would update all records in a database, so be careful
 
@@ -231,14 +233,15 @@ UPDATE customers
 SET age = '30'
 ```
 
-## Delete a record
+## DELETING
+### Delete a record
 
 ```sql
 DELETE FROM customers
 where customer_id = 3
 ```
 
-## Delete all records
+### Delete all records
 
 ```sql
 DELETE FROM customers
