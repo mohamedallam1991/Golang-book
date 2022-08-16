@@ -39,6 +39,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
   highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
 
+[Params.style.vars]
+highlightColor = "#00ADD8"
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
