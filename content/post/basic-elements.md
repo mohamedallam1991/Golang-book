@@ -142,7 +142,10 @@ You can also use inline Markdown.
 </html>
 ```
 
-{{< highlight html >}}
+{{< highlight Go >}}
+func main(a string) int{
+
+}
 <!DOCTYPE html>
 <html lang="en">
 <head>

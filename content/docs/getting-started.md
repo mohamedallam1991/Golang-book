@@ -1,14 +1,20 @@
 ---
+slug: "get-ssstarted"
 title: Getting started
 description: This article helps you get started with the Mainroad theme, including installation and minimal
   configuration.
 lead: This article helps you get started with the Mainroad theme, including installation and minimal configuration.
 date: 2022-01-24T14:00:00.000Z
+# series: ['Go Web Dev']
+
 tags:
   - "Installation"
 authorbox: false
 sidebar: false
 pager: false
+# series: ["beginners"]
+draft: false
+toc: true
 weight: 1
 menu: main
 ---

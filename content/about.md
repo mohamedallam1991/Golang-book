@@ -3,12 +3,9 @@ title: About
 date: 2022-01-25T14:00:00.000Z
 description: "Golang-Book is where I share everything I learned during my Go journey"
 # categries
-#   - "Category 1"
-#   - "Category 2"
 # tags:
 #   - "Test"
 #   - "Another test"
-
 authorbox: false
 sidebar: false
 menu: main
