@@ -1,9 +1,11 @@
 ---
 title: Basic CRUD operations in SQL
-slug: "basic-crud-sql"
+# slug: "basic-crud-sql"
+url: basic-crud-sql
+
 date: 2022-08-16
 description: Basic PostgreSQL steps, to get up and running CRUD and batch CRUD
-# description: This article teaches you everything you need to know about variables in Golang
+
 lead: Lets learn Golang variables, how to declare them and how to use them.
 # date: 2022-08-15T14:00:00.000Z
 # series: ['Golang', 'Beginner']
@@ -30,9 +32,7 @@ widgets:
   - "search"
   - "recent"
   - "taglist"
-menu:
-  main:
-    name: Databases
+
 ---
 
 The following steps will help you get started as quickly as possible, manipulating SQL data.

@@ -1,22 +1,28 @@
 ---
-title: Golang variables guide
-slug: "golang-variables"
+title: Databases and Go
+url: databases
+
 date: 2022-08-16
-description: This article teaches you everything you need to know about variables in Golang
-lead: Lets learn Golang variables, how to declare them and how to use them.
+description: PostgreSQL other SQL, Redis, MongoDB and many other databases articles.
+lead: Storing data, is one of the most critical tasks, lets learn that together.
 # date: 2022-08-15T14:00:00.000Z
-# series: ['Golang', 'Beginner']
+series: ['Databases']
 categories:
-  - "Golang"
+  - "Database"
+  - "Redis"
+  - "PostgreSQL"
+  - "SQL"
 tags:
-  - "Golang"
-  - "Beginner"
+  - "Database"
+  - "Redis"
+  - "PostgreSQL"
+  - "SQL"
 
 authorbox: false
 sidebar: false
 pager: false
 toc: true
-weight: 1
+weight: 3
 
 authorbox: true # Enable authorbox for specific page
 pager: false # Enable pager navigation (prev/next) for specific page
@@ -28,13 +34,10 @@ widgets:
   - "recent"
   - "taglist"
 menu:
-  main:
-    name: Golang
+    main:
+        name: Databases
 ---
 
-
-After you finish this article you will start playing with variables like pawns
+This is Databases related content
 
 <!--more-->
-
-## Intro
