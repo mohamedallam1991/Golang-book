@@ -2,6 +2,8 @@ backend:
   name: github
   repo: mohamedallam1991/golang-book
   branch: master # Branch to update (optional; defaults to master)
+  # preview_context: my-provider/deployment
+
 media_folder: static/img
 public_folder: /img
 collections:
