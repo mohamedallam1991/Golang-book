@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Customization
 description: Describes common Mainroad theme configuration parameters that can be adjusted via config file or via Front
   Matter section.

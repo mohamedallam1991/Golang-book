@@ -101,3 +101,9 @@ func main (){
 > 5
 >
 > [{En Key 1} {En Key 2} {} {} {}]
+
+
+
+[Arrays guide]({{< relref "/golang/arrays.md" >}} "Arrays article").
+[Slices guide]({{< relref "/golang/slices.md" >}} "slices article").
+[Struct guide]({{< relref "/golang/structs.md" >}} "structs article").

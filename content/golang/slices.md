@@ -37,3 +37,6 @@ After you finish this article you will start playing with slices like pawns
 <!--more-->
 
 ## Intro
+
+
+[Append to slice or array of struct page]({{< relref "/golang/append-to-slice-of-struct.md" >}} "Arrays article").
