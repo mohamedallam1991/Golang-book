@@ -6,94 +6,85 @@
     <description>Recent content in Tags on Golang-Book</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://mohamedallam1991.github.io/golang-book/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mohamedallam1991.github.io/golang-book/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Installation</title>
-      <link>https://mohamedallam1991.github.io/golang-book/tags/installation/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
-      
-      <guid>https://mohamedallam1991.github.io/golang-book/tags/installation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Basic Elements</title>
-      <link>https://mohamedallam1991.github.io/golang-book/tags/basic-elements/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohamedallam1991.github.io/golang-book/tags/basic-elements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CSS</title>
-      <link>https://mohamedallam1991.github.io/golang-book/tags/css/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohamedallam1991.github.io/golang-book/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://mohamedallam1991.github.io/golang-book/tags/html/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohamedallam1991.github.io/golang-book/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://mohamedallam1991.github.io/golang-book/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohamedallam1991.github.io/golang-book/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>https://mohamedallam1991.github.io/golang-book/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohamedallam1991.github.io/golang-book/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
+      <title>Golang</title>
       <link>https://mohamedallam1991.github.io/golang-book/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mohamedallam1991.github.io/golang-book/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
+      <title>Tricks</title>
+      <link>https://mohamedallam1991.github.io/golang-book/tags/tricks/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/tags/tricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
       <link>https://mohamedallam1991.github.io/golang-book/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mohamedallam1991.github.io/golang-book/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>templates</title>
-      <link>https://mohamedallam1991.github.io/golang-book/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Beginner</title>
+      <link>https://mohamedallam1991.github.io/golang-book/tags/beginner/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mohamedallam1991.github.io/golang-book/tags/templates/</guid>
+      <guid>https://mohamedallam1991.github.io/golang-book/tags/beginner/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>https://mohamedallam1991.github.io/golang-book/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Books</title>
+      <link>https://mohamedallam1991.github.io/golang-book/tags/books/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mohamedallam1991.github.io/golang-book/tags/themes/</guid>
+      <guid>https://mohamedallam1991.github.io/golang-book/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://mohamedallam1991.github.io/golang-book/tags/database/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://mohamedallam1991.github.io/golang-book/tags/postgresql/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>https://mohamedallam1991.github.io/golang-book/tags/redis/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/tags/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://mohamedallam1991.github.io/golang-book/tags/sql/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/tags/sql/</guid>
       <description></description>
     </item>
     

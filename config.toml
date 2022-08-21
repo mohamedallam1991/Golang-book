@@ -64,3 +64,6 @@ highlightColor = "#00ADD8"
   title = "Youtube"
   url = "https://www.youtube.com/channel/UCR1c1Y6c7Q7HPJLjtBWy71g"
   icon = "youtube2.svg" # Optional. Path relative to "layouts/partials"
+
+
+enableRobotsTXT = true

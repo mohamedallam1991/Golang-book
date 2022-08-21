@@ -6,22 +6,49 @@
     <description>Recent content in Categories on Golang-Book</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://mohamedallam1991.github.io/golang-book/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mohamedallam1991.github.io/golang-book/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Development</title>
-      <link>https://mohamedallam1991.github.io/golang-book/categories/development/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Golang</title>
+      <link>https://mohamedallam1991.github.io/golang-book/categories/golang/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mohamedallam1991.github.io/golang-book/categories/development/</guid>
+      <guid>https://mohamedallam1991.github.io/golang-book/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://mohamedallam1991.github.io/golang-book/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Database</title>
+      <link>https://mohamedallam1991.github.io/golang-book/categories/database/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mohamedallam1991.github.io/golang-book/categories/golang/</guid>
+      <guid>https://mohamedallam1991.github.io/golang-book/categories/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://mohamedallam1991.github.io/golang-book/categories/postgresql/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/categories/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>https://mohamedallam1991.github.io/golang-book/categories/redis/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/categories/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://mohamedallam1991.github.io/golang-book/categories/sql/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/categories/sql/</guid>
       <description></description>
     </item>
     

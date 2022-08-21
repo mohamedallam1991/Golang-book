@@ -6,36 +6,176 @@
     <description>Recent content on Golang-Book</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://mohamedallam1991.github.io/golang-book/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mohamedallam1991.github.io/golang-book/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting started</title>
-      <link>https://mohamedallam1991.github.io/golang-book/docs/get-ssstarted/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <title>Basic CRUD operations in SQL</title>
+      <link>https://mohamedallam1991.github.io/golang-book/basic-crud-sql/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mohamedallam1991.github.io/golang-book/docs/get-ssstarted/</guid>
-      <description>&lt;p&gt;Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad theme installation and minimal
-configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar
-with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;</description>
+      <guid>https://mohamedallam1991.github.io/golang-book/basic-crud-sql/</guid>
+      <description>&lt;p&gt;The following steps will help you get started as quickly as possible, manipulating SQL data.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Customization</title>
-      <link>https://mohamedallam1991.github.io/golang-book/docs/customization/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <title>Series</title>
+      <link>https://mohamedallam1991.github.io/golang-book/series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mohamedallam1991.github.io/golang-book/docs/customization/</guid>
-      <description>&lt;p&gt;Customization page describes common Mainroad configuration parameters which can be specified via configuration file or
-via Front Matter section. That includes logo section tuning, adding a sidebar with widgets, adjusting highlight color,
-and more.&lt;/p&gt;</description>
+      <guid>https://mohamedallam1991.github.io/golang-book/series/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Frequently asked questions (FAQ)</title>
-      <link>https://mohamedallam1991.github.io/golang-book/docs/faq/</link>
+      <link>https://mohamedallam1991.github.io/golang-book/faq/</link>
       <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
       
-      <guid>https://mohamedallam1991.github.io/golang-book/docs/faq/</guid>
+      <guid>https://mohamedallam1991.github.io/golang-book/faq/</guid>
       <description>&lt;p&gt;Browse this FAQ page to find answers to frequently asked questions about the golang-book.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang tricks</title>
+      <link>https://mohamedallam1991.github.io/golang-book/some-tricks-Golang/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/some-tricks-Golang/</guid>
+      <description>&lt;p&gt;Golang is a beautiful programming language, this tricks will make it even fun&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deploy Hugo</title>
+      <link>https://mohamedallam1991.github.io/golang-book/deploy-hugo/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/deploy-hugo/</guid>
+      <description>&lt;p&gt;Browse this FAQ page to find answers to frequently asked questions about the golang-book.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Go Programming Language</title>
+      <link>https://mohamedallam1991.github.io/golang-book/books/go-web/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/books/go-web/</guid>
+      <description>&lt;p&gt;This books is the definitve Go book to start working with Go. pick any chapter and learn from the&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Append to slice of struct</title>
+      <link>https://mohamedallam1991.github.io/golang-book/append-to-slice-of-struct/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/append-to-slice-of-struct/</guid>
+      <description>&lt;p&gt;Lets append more values to a slice of struct, or an array of struct&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data structure</title>
+      <link>https://mohamedallam1991.github.io/golang-book/data-structure-golang/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/data-structure-golang/</guid>
+      <description>&lt;p&gt;Data Structure, and Algorithms, boring? now, this article shows you how&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang arrays guide</title>
+      <link>https://mohamedallam1991.github.io/golang-book/arrays/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/arrays/</guid>
+      <description>&lt;p&gt;After you finish this article you will start playing with arrays like pawns&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang channels</title>
+      <link>https://mohamedallam1991.github.io/golang-book/channels/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/channels/</guid>
+      <description>&lt;p&gt;In Go, channels helps us lot, lets figure out how.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang Concurency</title>
+      <link>https://mohamedallam1991.github.io/golang-book/Concurency/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/Concurency/</guid>
+      <description>&lt;p&gt;Go, is by far known for its Concurency, lets unleash Go full power.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang constants guide</title>
+      <link>https://mohamedallam1991.github.io/golang-book/constants/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/constants/</guid>
+      <description>&lt;p&gt;After you finish this article you will start playing with constants like pawns&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang data types</title>
+      <link>https://mohamedallam1991.github.io/golang-book/data-types/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/data-types/</guid>
+      <description>&lt;p&gt;After you finish this article you will be able to figure out which data type you need for your next Go code.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang functions</title>
+      <link>https://mohamedallam1991.github.io/golang-book/functions/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/functions/</guid>
+      <description>&lt;p&gt;Lets see how powerful Golang functions are.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang interfaces</title>
+      <link>https://mohamedallam1991.github.io/golang-book/interfaces/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/interfaces/</guid>
+      <description>&lt;p&gt;Functions are so powerful, lets combine functions with interfaces, to levrage one of the Go&amp;rsquo;s greatest features&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang maps guide</title>
+      <link>https://mohamedallam1991.github.io/golang-book/maps/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/maps/</guid>
+      <description>&lt;p&gt;After you finish this article you will start playing with maps like pawns&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang slices guide</title>
+      <link>https://mohamedallam1991.github.io/golang-book/slices/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/slices/</guid>
+      <description>&lt;p&gt;After you finish this article you will start playing with slices like pawns&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang structs guide</title>
+      <link>https://mohamedallam1991.github.io/golang-book/structs/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/structs/</guid>
+      <description>&lt;p&gt;After you finish this article you will start playing with structs like pawns&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang variables guide</title>
+      <link>https://mohamedallam1991.github.io/golang-book/variables/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedallam1991.github.io/golang-book/variables/</guid>
+      <description>&lt;p&gt;After you finish this article you will start playing with variables like pawns&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,45 +184,10 @@ and more.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
       
       <guid>https://mohamedallam1991.github.io/golang-book/about/</guid>
-      <description>Our website builds with Hugo static site generator and Mainroad theme. This demo allows you to see what Mainroad based website looks like before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the combination of Hugo and Mainroad can do.
-About Mainroad Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.</description>
-    </item>
-    
-    <item>
-      <title>Basic HTML Elements</title>
-      <link>https://mohamedallam1991.github.io/golang-book/post/basic-elements/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohamedallam1991.github.io/golang-book/post/basic-elements/</guid>
-      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://mohamedallam1991.github.io/golang-book/post/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohamedallam1991.github.io/golang-book/post/hugo-template-primer/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in Go templates.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://mohamedallam1991.github.io/golang-book/post/getting-started-with-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohamedallam1991.github.io/golang-book/post/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
-Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
+      <description>This is a free open source website, where we focus on Golang ecosystem, with everything I know in the Go programming language, Come along with me, embrace learn in public:
+Sources Ali Abadaal: Learn in Public, It’s Great This is a free chapter of the Coding Career Handbook Learn In Public Some of my inspirations include:
+Golang Book Some of my other bloogs:
+Golang Book Postgres Book PostgreSQL Book My portfolio My blog A business page You already know that you will never be done learning.</description>
     </item>
     
   </channel>
