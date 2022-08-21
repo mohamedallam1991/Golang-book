@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+User-agent: SiteAuditBot
+Crawl-delay: 1
+Allow: /
+
+User-agent: Semrushbot-SI
+Allow: /
+
+
+User-agent: Facebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+
+# Sitemap files
+Sitemap: https://www.golang-pages.dev/sitemap.xml
