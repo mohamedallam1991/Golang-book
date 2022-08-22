@@ -1,11 +1,11 @@
 ---
-title: Golang slices guide
+title: What are Gobs?
 # slug: "golang-variables"
-url: slices
+url: gobs
 
 date: 2022-08-16
-description: This article teaches you everything you need to know about slices in Golang
-lead: Lets learn Golang slices, how to declare them and how to use them.
+description: Lets explore Gobs a transmittable data structure ,
+lead: Lets learn Golang interfaces, how to declare them and how to use them.
 # date: 2022-08-15T14:00:00.000Z
 # series: ['Golang', 'Beginner']
 categories:
@@ -32,12 +32,7 @@ widgets:
 ---
 
 
-After you finish this article you will start playing with slices like pawns
-
+Functions are so powerful, lets combine functions with interfaces, to levrage one of the Go's greatest features
 <!--more-->
 
 ## Intro
-
-[https://go.dev/blog/slices-intro](https://go.dev/blog/slices-intro)
-[https://www.developer.com/languages/arrays-slices-golang/](https://www.developer.com/languages/arrays-slices-golang/)
-[Append to slice or array of struct page]({{< relref "/golang/append-to-slice-of-struct.md" >}} "Arrays article").

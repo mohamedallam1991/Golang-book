@@ -195,3 +195,9 @@ The adpter pattern comprises:
 - The target: The interface that the client calls and invokques methods on the adapter and adaptee
 - The adaptee: The old adapter, that we want to keep but use a newer adapter on top of.
 - The client: Wants an incompatible interface implemented by the adapter
+[https://golangbyexample.com/adapter-design-pattern-go/](https://golangbyexample.com/adapter-design-pattern-go/)
+[https://refactoring.guru/design-patterns/adapter/go/example](https://refactoring.guru/design-patterns/adapter/go/example)
+[https://refactoring.guru/design-patterns/adapter/](https://refactoring.guru/design-patterns/adapter/)
+
+
+[https://dev-yakuza.posstree.com/en/golang/data-structure/](https://dev-yakuza.posstree.com/en/golang/data-structure/)

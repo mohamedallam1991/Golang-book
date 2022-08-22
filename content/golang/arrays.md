@@ -38,4 +38,7 @@ After you finish this article you will start playing with arrays like pawns
 
 ## Intro
 
+[https://go.dev/blog/slices-intro](https://go.dev/blog/slices-intro)
+[Arrays, slices (and strings): The mechanics of 'append'](https://go.dev/blog/slices)
+[https://stackoverflow.com/questions/33834742/remove-and-adding-elements-to-array-in-go-lang](https://stackoverflow.com/questions/33834742/remove-and-adding-elements-to-array-in-go-lang)
 [Append to slice or array of struct page]({{< relref "/golang/append-to-slice-of-struct.md" >}} "Arrays article").
