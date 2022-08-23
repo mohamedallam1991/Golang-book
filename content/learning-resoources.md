@@ -14,8 +14,8 @@ This is resources will take you from not knowing what coding is, to becoming pro
 <!--more-->
 
 ## Roadmap
-[Step by step guide to becoming a Go developer in 2022](https://roadmap.sh/golang)
-[Easy to understand explanation of Big-O notation without any fancy terms](https://roadmap.sh/guides/big-o-notation)
+- [Step by step guide to becoming a Go developer in 2022](https://roadmap.sh/golang)
+- [Easy to understand explanation of Big-O notation without any fancy terms](https://roadmap.sh/guides/big-o-notation)
 
 ## Udemy courses
 
