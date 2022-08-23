@@ -40,7 +40,7 @@ The following steps will help you get started as quickly as possible, manipulati
 <!--more-->
 
 ## Intro
-
+[PostgreSQL vs. MariaDB: Features, Performance, Use Cases](https://www.openlogic.com/blog/postgresql-vs-mariadb)
 Lets create a customer or two, Assuming you have  Its time to get the hang of CRUD on your fresh database.
 
 So given we need to store customers in our database, we create `customers` table, in which we store informations like:

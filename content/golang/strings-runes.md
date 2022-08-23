@@ -32,3 +32,4 @@ widgets:
 ---
 
 [Strings, bytes, runes and characters in Go](https://go.dev/blog/strings)
+[Covers the basics of character encodings and explains ASCII vs Unicode](https://roadmap.sh/guides/character-encodings)

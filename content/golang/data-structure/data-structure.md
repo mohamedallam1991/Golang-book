@@ -201,3 +201,4 @@ The adpter pattern comprises:
 
 
 [https://dev-yakuza.posstree.com/en/golang/data-structure/](https://dev-yakuza.posstree.com/en/golang/data-structure/)
+[Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans)
