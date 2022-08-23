@@ -50,6 +50,8 @@ An Array has a size or a length which can found by
 len(arr)
 ```
 
+### Array elements
+
 To access the array elements there is two different ways:
 
 - We loop through the array, by figuring out its length
@@ -65,6 +67,7 @@ for i,v := range arr{
     fmt.Println("priting elements ",i, v)
 }
 ```
+### Ignoring the index
 If we need to ignore the index we can use the _ blank identifier
 ```go
 for _,v := range arr{
