@@ -9,8 +9,9 @@ menu: main
 toc: false
 ---
 
+This is resources will take you from not knowing what coding is, to becoming profficien in Go
 
-This is a free open source website, where we focus on Golang ecosystem, with everything I know in the Go programming language, Come along with me, embrace learn in public:
+<!--more-->
 
 ## Roadmap
 [Step by step guide to becoming a Go developer in 2022](https://roadmap.sh/golang)
@@ -52,6 +53,7 @@ This is a free open source website, where we focus on Golang ecosystem, with eve
 - [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/)
 
 ## Membership courses
+- [Build your own X](https://app.codecrafters.io/tracks/go)
 - [Go Programming (Golang): The Complete Developer's Guide](https://zerotomastery.io/courses/learn-golang/)
 - [TutorialEdge](https://tutorialedge.net/courses/)
 - [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
@@ -59,14 +61,10 @@ This is a free open source website, where we focus on Golang ecosystem, with eve
 
 
 ## OTP courses
-[Build your own X](https://app.codecrafters.io/tracks/go)
 - Jon Calhoun
     - [Web Development with Go](https://www.usegolang.com/)
     - [Test with Go](https://testwithgo.com/)
 
-## Youtube Courses
-[Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
-[Michael Van Sickle Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
 
 ## Books
@@ -80,6 +78,11 @@ This is a free open source website, where we focus on Golang ecosystem, with eve
 
 
 [Edit this page on GitHub](https://github.com/mohamedallam1991/golang-book/blob/master/content/learning-resoources.md)
+
+
+## Youtube Courses
+- [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
+- [Michael Van Sickle Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
 
 ## More resouces
@@ -101,3 +104,6 @@ https://github.com/florinpop17/app-ideas
 - [😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 - [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
 - [Short JavaScript code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-code)
+
+
+[Edit this page on GitHub](https://github.com/mohamedallam1991/golang-book/blob/master/content/learning-resoources.md)
