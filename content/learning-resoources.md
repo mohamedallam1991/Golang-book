@@ -7,9 +7,10 @@ authorbox: false
 sidebar: false
 menu: main
 toc: false
+weight: 8
 ---
 
-This is resources will take you from not knowing what coding is, to becoming profficien in Go
+This is resources will take you from not knowing what coding is, to becoming proficient in Go
 
 <!--more-->
 

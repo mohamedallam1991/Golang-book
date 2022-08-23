@@ -8,6 +8,7 @@ authorbox: false
 sidebar: false
 menu: main
 toc: false
+weight: 8
 ---
 
 You want to know what others built using the very Go?
@@ -22,7 +23,10 @@ You want to know what others built using the very Go?
 - [NATS](https://github.com/nats-io/nats-server)
 - [Centrifugo](https://github.com/centrifugal/centrifugo)
 - [PhotoPrism](https://github.com/photoprism/photoprism)
+- [Caddy](https://github.com/caddyserver/caddy)
 
 
 
-[Edit this page on GitHub](https://github.com/mohamedallam1991/golang-book/blob/master/content/tools.md)
+
+
+[Edit this page on GitHub](https://github.com/mohamedallam1991/golang-book/blob/master/content/builtin.md)

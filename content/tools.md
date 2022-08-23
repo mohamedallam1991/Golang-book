@@ -7,10 +7,15 @@ authorbox: false
 sidebar: false
 menu: main
 toc: false
+weight: 8
+
 ---
 
 This tools will show you how awesome is the Go ecosystem.
 
 ## Sources
+
+
+
 
 [Edit this page on GitHub](https://github.com/mohamedallam1991/golang-book/blob/master/content/tools.md)
