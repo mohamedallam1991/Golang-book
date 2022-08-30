@@ -1,6 +1,7 @@
 [submodule "themes/mainroada"]
 	path = themes/mainroada
 	url = https://github.com/vimux/mainroad.git
-[submodule "themes/mainroad"]
-	path = themes/mainroad
-	url = https://github.com/vimux/mainroad.git
+    ignore = dirty
+# [submodule "themes/mainroad"]
+# 	path = themes/mainroad
+# 	url = https://github.com/vimux/mainroad.git
