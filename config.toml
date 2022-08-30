@@ -3,6 +3,7 @@ title = "Golang-Book"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
+# googleAnalytics
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "G-S7W9VWR233" # Enable Google Analytics by entering your tracking id
 # googleAnalytics = "G-S7W9VWR233" # Enable Google Analytics by entering your tracking id
