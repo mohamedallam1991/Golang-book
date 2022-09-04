@@ -23,4 +23,4 @@ Allow: /
 
 
 # Sitemap files
-Sitemap: https://www.golang-pages.dev/sitemap.xml
+Sitemap: https://www.golang-book.pages.dev/sitemap.xml
